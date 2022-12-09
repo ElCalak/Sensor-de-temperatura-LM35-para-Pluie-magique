@@ -13,7 +13,10 @@ Debug:
     Christopher G. Linares (El Calak de Astora)
     Ivan Garcia
 
-Repositorio en Github:
+Nota: Estoy usando librerias provenientes de git Creditos a sus respectivos autores
+      https://github.com/dhylands/python_lcd/tree/master/lcd
+
+Repositorio en Github: https://github.com/ElCalak/Sensor-de-temperatura-LM35-para-Pluie-magique
 
 """
 
